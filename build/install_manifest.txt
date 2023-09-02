@@ -1,0 +1,4 @@
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/install/lib/libMathFunctions.a
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/install/include/head.h
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/install/bin/Tutorial
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/install/include/TutorialConfig.h

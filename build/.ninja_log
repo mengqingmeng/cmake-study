@@ -1,0 +1,8 @@
+# ninja log v5
+2	133	1693619451191118774	MathFunctions/CMakeFiles/MathFunctions.dir/mult.cpp.o	db7cdabfe7d16225
+3	133	1693619451191119899	MathFunctions/CMakeFiles/MathFunctions.dir/sub.cpp.o	36fc05ad7bd43bd5
+2	133	1693619451191236734	MathFunctions/CMakeFiles/MathFunctions.dir/div.cpp.o	19dd87952776284f
+16	562	1693623755779275930	CMakeFiles/Tutorial.dir/tutorial.cpp.o	6796f8ddaaf95632
+133	164	1693619451223924000	MathFunctions/libMathFunctions.a	cd817d187ee2e92e
+2	133	1693619451191110024	MathFunctions/CMakeFiles/MathFunctions.dir/add.cpp.o	e4c9ecc1659fcdfa
+562	634	1693623755851870183	Tutorial	834d821e01db9e51
