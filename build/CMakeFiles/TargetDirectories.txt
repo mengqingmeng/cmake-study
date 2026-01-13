@@ -12,3 +12,9 @@
 /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/MathFunctions/CMakeFiles/install.dir
 /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/MathFunctions/CMakeFiles/install/local.dir
 /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/MathFunctions/CMakeFiles/install/strip.dir
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/basic/CMakeFiles/edit_cache.dir
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/basic/CMakeFiles/rebuild_cache.dir
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/basic/CMakeFiles/list_install_components.dir
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/basic/CMakeFiles/install.dir
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/basic/CMakeFiles/install/local.dir
+/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build/basic/CMakeFiles/install/strip.dir

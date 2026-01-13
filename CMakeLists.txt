@@ -1,5 +1,8 @@
 cmake_minimum_required(VERSION 3.24)
-project(Tutorial VERSION 1.4 LANGUAGES CXX)
+project(Tutorial 
+    VERSION 1.4
+    LANGUAGES CXX
+    DESCRIPTION "A simple CMake tutorial")
 
 set(CMAKE_CXX_STANDARD 11) # -std=c++17
 set(CMAKE_CXX_STANDARD_REQUIRED TRUE)
@@ -18,6 +21,8 @@ if(USE_MYMATH)
     list(APPEND EXTRA_LIBS MathFunctions)
     # list(APPEND EXTRA_INCLUDES "${PROJECT_SOURCE_DIR}/MathFunctions")
 endif()
+
+add_subdirectory(basic)
 
 add_executable(Tutorial tutorial.cpp)
 # 指定include的头文件目录

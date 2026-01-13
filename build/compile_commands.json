@@ -1,31 +1,31 @@
 [
 {
   "directory": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -I/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build -I/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/Tutorial.dir/tutorial.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/tutorial.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -I/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build -I/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions -g -std=gnu++14 -arch arm64 -o CMakeFiles/Tutorial.dir/tutorial.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/tutorial.cpp",
   "file": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/tutorial.cpp",
   "output": "CMakeFiles/Tutorial.dir/tutorial.cpp.o"
 },
 {
   "directory": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o MathFunctions/CMakeFiles/MathFunctions.dir/add.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/add.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -g -std=gnu++14 -arch arm64 -o MathFunctions/CMakeFiles/MathFunctions.dir/add.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/add.cpp",
   "file": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/add.cpp",
   "output": "MathFunctions/CMakeFiles/MathFunctions.dir/add.cpp.o"
 },
 {
   "directory": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o MathFunctions/CMakeFiles/MathFunctions.dir/div.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/div.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -g -std=gnu++14 -arch arm64 -o MathFunctions/CMakeFiles/MathFunctions.dir/div.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/div.cpp",
   "file": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/div.cpp",
   "output": "MathFunctions/CMakeFiles/MathFunctions.dir/div.cpp.o"
 },
 {
   "directory": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o MathFunctions/CMakeFiles/MathFunctions.dir/mult.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/mult.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -g -std=gnu++14 -arch arm64 -o MathFunctions/CMakeFiles/MathFunctions.dir/mult.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/mult.cpp",
   "file": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/mult.cpp",
   "output": "MathFunctions/CMakeFiles/MathFunctions.dir/mult.cpp.o"
 },
 {
   "directory": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin22-g++-13 -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o MathFunctions/CMakeFiles/MathFunctions.dir/sub.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/sub.cpp",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++ -g -std=gnu++14 -arch arm64 -o MathFunctions/CMakeFiles/MathFunctions.dir/sub.cpp.o -c /Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/sub.cpp",
   "file": "/Users/mqm/WORKSPACE/CODE/cpp/cmake-study/MathFunctions/sub.cpp",
   "output": "MathFunctions/CMakeFiles/MathFunctions.dir/sub.cpp.o"
 }
